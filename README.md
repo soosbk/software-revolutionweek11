@@ -1,2 +1,2 @@
-# software-revolutionweek11
-소프트웨어혁명 11주차 과제
+# cover-letter
+꾸준히 업로드할 예정입니다.
